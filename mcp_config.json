@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "fastapi-server": {
+      "command": "python",
+      "args": ["gemini_mcp_server.py"],
+      "env": {
+        "API_BASE_URL": "http://localhost:8000"
+      }
+    }
+  }
+}

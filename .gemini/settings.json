@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "FastAPI Server": {
+      "command": "python",
+      "args": [
+        "gemini_mcp_server.py"
+      ],
+      "env": {
+        "API_BASE_URL": "http://localhost:8000"
+      },
+      "description": "FastAPI MCP Server with user management, task management, and dice rolling"
+    }
+  }
+}
