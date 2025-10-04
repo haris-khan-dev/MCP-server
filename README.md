@@ -61,6 +61,10 @@ This project demonstrates how to integrate a FastAPI application with Google's G
 
 ## 🎯 Usage
 
+### 0. Look for the video demo
+
+You can look for the zip file in which screen recording is present. That includes a demo question and an answer.
+
 ### 1. Start the FastAPI Server
 
 ```bash
